@@ -70,7 +70,7 @@ public class Lesson4 : MonoBehaviour
         }
 
         //得到某一个单个对象 目前有两个方法
-        //1.直接拖入
+        //1.直接拖入 进行关联
         //2，通过API
 
         //2.查找多个对象
@@ -89,6 +89,8 @@ public class Lesson4 : MonoBehaviour
 
         //实例化（克隆对象）对象方法
         //它的作用 是根据一个GameObjectd对象 创建出一个和它一模一样的对象
+        //可以是场景上的某个对象
+        //可以是预设体对象
         GameObject obj5 = GameObject.Instantiate(myObj);
 
 
@@ -120,13 +122,13 @@ public class Lesson4 : MonoBehaviour
         //创建一个空物体
         GameObject obj6 = new GameObject();
         GameObject obj7 = new GameObject("new的新物体");
-        GameObject obj8 = new GameObject("顺便加脚本的空物体", typeof(Lesson1), typeof(Lesson3));
+        GameObject obj8 = new GameObject("顺便加脚本的空物体", typeof(Lesson1), typeof(Lesson3_Test));
 
         //为对象添加脚本
         //继承MonoBehavior的脚本 不能new
         //如果想动态的添加继承了MonoBehavior的脚本
         obj6.AddComponent(typeof(Lesson1));
-        Lesson3 les2 = obj6.AddComponent<Lesson3>();
+        Lesson3_Test les2 = obj6.AddComponent<Lesson3_Test>();
 
 
         //得到脚本

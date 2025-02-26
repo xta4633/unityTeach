@@ -9,12 +9,12 @@ class Lesson3 : MonoBehaviour
     {
         #region 知识点一 重要成员
         //1.获取依附的GameObject
-        print(gameObject.name);
+        print(gameObject.name + "@@@");
 
         //2.获取依附的gameObject的位置信息
         print(this.transform.position);//位置
         print(this.transform.eulerAngles);//角度
-        print(this.transform.lossyScale);//缩放大学
+        print(this.transform.lossyScale);//缩放大小
 
         //this.gameObject.tranform  和上面一样
 
@@ -22,8 +22,12 @@ class Lesson3 : MonoBehaviour
         enabled = true;
         enabled = false;
 
-        print(otherLesson3.gameObject.name);
-        print(otherLesson3.gameObject.transform.position);
+        //获取别的脚本对象 依附的gameObject和tranform信息
+        if (otherLesson3.gameObject != null)
+        {
+            print(otherLesson3.gameObject.name);
+            print(otherLesson3.gameObject.transform.position);
+        }
         #endregion
 
         #region 知识点二 重要方法
@@ -46,6 +50,7 @@ class Lesson3 : MonoBehaviour
         //2.得到自己挂载的多个脚本
         Lesson3[] array = this.GetComponents<Lesson3>();
         print(array.Length);
+
         List<Lesson3> list = new List<Lesson3>();
         this.GetComponents<Lesson3>(list);
         #endregion
