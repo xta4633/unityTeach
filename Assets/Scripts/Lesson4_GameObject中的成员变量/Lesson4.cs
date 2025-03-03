@@ -14,6 +14,11 @@ public class Lesson4 : MonoBehaviour
         print("Lesson4的TestFun");
     }
 
+    public void TestFun2(int i)
+    {
+        print("111:" + i);
+    }
+
     // Start is called before the first frame update
     void Start()
     {
@@ -126,7 +131,7 @@ public class Lesson4 : MonoBehaviour
 
         //为对象添加脚本
         //继承MonoBehavior的脚本 不能new
-        //如果想动态的添加继承了MonoBehavior的脚本
+        //如果想动态的添加继承了MonoBehavior的脚本 在某一个对象上
         obj6.AddComponent(typeof(Lesson1));
         Lesson3_Test les2 = obj6.AddComponent<Lesson3_Test>();
 
@@ -160,6 +165,8 @@ public class Lesson4 : MonoBehaviour
         //通知自己 执行什么行为
         this.gameObject.SendMessage("TestFun");
 
+        this.gameObject.SendMessage("TestFun2", 199);
+
         //广播行为 让自己和自己的子对象执行
         //this.gameObject.BroadcastMessage("函数名");
         //向父对象和自己发送消息 并执行
@@ -176,4 +183,22 @@ public class Lesson4 : MonoBehaviour
     {
         
     }
+
+
+    //总结
+
+    //基本成员变量
+    //名字 失活激活状态 标签 层级 等等
+
+    //静态方法相关
+    //创建自带几何体
+    //查找场景中的对象
+    //实例化对象
+    //删除对象
+    //过场景不移除
+    
+    //成员方法
+    //为对象 动态添加脚本的方法
+    //设置失活激活状态的方法
+    //得到脚本相关的方法
 }

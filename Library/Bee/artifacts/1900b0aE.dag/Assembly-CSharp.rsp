@@ -360,7 +360,12 @@
 "Assets/Scripts/Lesson3_Mono中的重要内容/练习题/B.cs"
 "Assets/Scripts/Lesson3_Mono中的重要内容/练习题/Lesson3_Exercises.cs"
 "Assets/Scripts/Lesson4_GameObject中的成员变量/Lesson4.cs"
+"Assets/Scripts/Lesson4_GameObject中的成员变量/练习题/Lesson4_A.cs"
+"Assets/Scripts/Lesson4_GameObject中的成员变量/练习题/Lesson4_A1.cs"
+"Assets/Scripts/Lesson4_GameObject中的成员变量/练习题/Lesson4_B.cs"
 "Assets/Scripts/Lesson4_GameObject中的成员变量/练习题/Lesson4_lianxi1.cs"
+"Assets/Scripts/Lesson5_Time时相关/Lesson5.cs"
+"Assets/Scripts/Lesson6_Transform/Lesson6.cs"
 -langversion:9.0
 /deterministic
 /optimize+
