@@ -76,14 +76,36 @@ public class Lesson6 : MonoBehaviour
 
         #endregion
 
-        #region 知识点三 位移
-        #endregion
+
     }
 
     // Update is called once per frame
     void Update()
     {
+        #region 知识点三 位移
 
+        //路程 = 方向 * 速度 * 时间
+
+        //方式一： 自己计算
+        //this.transform.position = this.transform.position + this.transform.forward * 1 * Time.deltaTime;
+        //方向非常重要，决定了前进的方向
+        //this.transform.position += this.transform.forward * 1 * Time.deltaTime;
+
+        //方式二：API
+        //参数一 表示位移多少 
+        //参数二 表示相对坐标系 默认是相对自己的坐标系
+
+        //向自己的面朝向移动
+        this.transform.Translate(Vector3.forward * 1 * Time.deltaTime);
+        //等价于
+        this.transform.Translate(Vector3.forward * 1 * Time.deltaTime, Space.Self);
+        
+        //相对于世界坐标系 移动
+        this.transform.Translate(Vector3.forward * 1 * Time.deltaTime, Space.World);
+
+        //相对世界坐标系 向自己的面朝向移动
+        this.transform.Translate(this.transform.forward * 1 * Time.deltaTime, Space.World);
+        #endregion
 
     }
 }

@@ -66,7 +66,10 @@
     <Compile Include="Assets\Scripts\Lesson3_Mono中的重要内容\Lesson3_Test.cs" />
     <Compile Include="Assets\Scripts\Lesson1.cs" />
     <Compile Include="Assets\Scripts\Lesson4_GameObject中的成员变量\练习题\Lesson4_B.cs" />
+    <Compile Include="Assets\Scripts\Lesson9_父子关系\Lesson9.cs" />
     <Compile Include="Assets\Scripts\Lesson6_Transform\Lesson6.cs" />
+    <Compile Include="Assets\Scripts\Lesson6_Transform\Lesson6_lianxi.cs" />
+    <Compile Include="Assets\Scripts\Lesson9_父子关系\Lesson9_lianxi.cs" />
     <Compile Include="Assets\Scripts\Lesson3_Mono中的重要内容\练习题\Lesson3_Exercises.cs" />
     <Compile Include="Assets\Scripts\Lesson3_Mono中的重要内容\Lesson3.cs" />
     <Compile Include="Assets\Scripts\Lesson4_GameObject中的成员变量\练习题\Lesson4_lianxi1.cs" />

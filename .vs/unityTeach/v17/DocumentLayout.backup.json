@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityteach\\assets\\scripts\\lesson5_time\u65F6\u76F8\u5173\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lesson5_time\u65F6\u76F8\u5173\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityteach\\assets\\scripts\\lesson9_\u7236\u5B50\u5173\u7CFB\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lesson9_\u7236\u5B50\u5173\u7CFB\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\assets\\scripts\\lesson4_gameobject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\lesson4_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lesson4_gameobject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\lesson4_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\assets\\scripts\\lesson6_transform\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lesson6_transform\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\assets\\scripts\\lesson4_gameobject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\lesson4_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lesson4_gameobject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\lesson4_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\assets\\scripts\\lesson4_gameobject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\lesson4_lianxi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lesson4_gameobject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\lesson4_lianxi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityteach\\assets\\scripts\\lesson6_transform\\lesson6_lianxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lesson6_transform\\lesson6_lianxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\assets\\scripts\\lesson4_gameobject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lesson4_gameobject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\assets\\scripts\\lesson4_gameobject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\lesson4_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lesson4_gameobject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\lesson4_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\assets\\scripts\\lesson3_mono\u4E2D\u7684\u91CD\u8981\u5185\u5BB9\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61407179-D08A-5D13-0CCB-C71F913F24B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lesson3_mono\u4E2D\u7684\u91CD\u8981\u5185\u5BB9\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lesson4_A.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_A.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_A.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_A.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_A.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T01:45:06.735Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -60,75 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lesson5.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson5_Time\u65F6\u76F8\u5173\\Lesson5.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lesson5_Time\u65F6\u76F8\u5173\\Lesson5.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson5_Time\u65F6\u76F8\u5173\\Lesson5.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lesson5_Time\u65F6\u76F8\u5173\\Lesson5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAEAAAAAAAAAA==",
+              "Title": "Lesson9.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson9_\u7236\u5B50\u5173\u7CFB\\Lesson9.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lesson9_\u7236\u5B50\u5173\u7CFB\\Lesson9.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson9_\u7236\u5B50\u5173\u7CFB\\Lesson9.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lesson9_\u7236\u5B50\u5173\u7CFB\\Lesson9.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwEYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T05:38:35.798Z",
+              "WhenOpened": "2025-03-05T05:42:20.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lesson4_A1.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_A1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_A1.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_A1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_A1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T03:41:27.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Lesson4_B.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_B.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_B.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_B.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_B.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T01:46:48.982Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Lesson4_lianxi1.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_lianxi1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_lianxi1.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_lianxi1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\\u7EC3\u4E60\u9898\\Lesson4_lianxi1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T09:38:43.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Lesson3.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson3_Mono\u4E2D\u7684\u91CD\u8981\u5185\u5BB9\\Lesson3.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Lesson3_Mono\u4E2D\u7684\u91CD\u8981\u5185\u5BB9\\Lesson3.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson3_Mono\u4E2D\u7684\u91CD\u8981\u5185\u5BB9\\Lesson3.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Lesson3_Mono\u4E2D\u7684\u91CD\u8981\u5185\u5BB9\\Lesson3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T09:20:37.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Lesson4.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\Lesson4.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\Lesson4.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\Lesson4.cs",
               "RelativeToolTip": "Assets\\Scripts\\Lesson4_GameObject\u4E2D\u7684\u6210\u5458\u53D8\u91CF\\Lesson4.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwB4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvzIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:01:38.328Z"
+              "WhenOpened": "2025-03-05T03:21:11.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson6_lianxi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson6_Transform\\Lesson6_lianxi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lesson6_Transform\\Lesson6_lianxi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson6_Transform\\Lesson6_lianxi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lesson6_Transform\\Lesson6_lianxi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:25:26.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lesson6.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson6_Transform\\Lesson6.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lesson6_Transform\\Lesson6.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u7A0B\u5E8F\u8BED\u8A00\\unityTeach\\Assets\\Scripts\\Lesson6_Transform\\Lesson6.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lesson6_Transform\\Lesson6.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwEwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:12:57.127Z",
+              "EditorCaption": ""
             }
           ]
         }
